@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-schdule-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Brandon W Michael",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.2.0"
+  }
+}
